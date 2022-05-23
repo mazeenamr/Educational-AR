@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d047b3ff28334c19afece99d54cfb46, type: 3}
+  m_Name: MarsMarkerLibrary
+  m_EditorClassIdentifier: 
+  m_Markers:
+  - m_SpecifySize: 1
+    m_Size: {x: 0.21, y: 0.297}
+    m_Label: No Label
+    m_Texture: {fileID: 2800000, guid: baf03111dd0d0174d98da48deaa1e099, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4886832370787433085
+      m_GuidHigh: 5422341647704719506
+  - m_SpecifySize: 1
+    m_Size: {x: 0.21, y: 0.297}
+    m_Label: No Label
+    m_Texture: {fileID: 2800000, guid: c18810a7075d6144793cde08c6426d15, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5351407633434362554
+      m_GuidHigh: 13379119273891713973
+  - m_SpecifySize: 1
+    m_Size: {x: 0.21, y: 0.297}
+    m_Label: No Label
+    m_Texture: {fileID: 2800000, guid: dbe59733f75ddc1418b8684e93448b28, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4799653576630853061
+      m_GuidHigh: 9992934104371791523
+  - m_SpecifySize: 1
+    m_Size: {x: 0.21, y: 0.297}
+    m_Label: Animal Cell
+    m_Texture: {fileID: 2800000, guid: aae13dfa60d898343b7dff1703c4dc05, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4805153800421720768
+      m_GuidHigh: 14100111594232635806
